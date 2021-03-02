@@ -1,0 +1,17 @@
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\bin\Debug\netcoreapp2.2\GameTop.deps.json
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\bin\Debug\netcoreapp2.2\GameTop.runtimeconfig.json
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\bin\Debug\netcoreapp2.2\GameTop.runtimeconfig.dev.json
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\bin\Debug\netcoreapp2.2\GameTop.dll
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\bin\Debug\netcoreapp2.2\GameTop.pdb
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\obj\Debug\netcoreapp2.2\GameTop.csprojAssemblyReference.cache
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\obj\Debug\netcoreapp2.2\GameTop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\obj\Debug\netcoreapp2.2\GameTop.AssemblyInfoInputs.cache
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\obj\Debug\netcoreapp2.2\GameTop.AssemblyInfo.cs
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\obj\Debug\netcoreapp2.2\GameTop.dll
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\obj\Debug\netcoreapp2.2\GameTop.pdb
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\bin\Debug\netcoreapp2.2\GameTop.interface.dll
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\bin\Debug\netcoreapp2.2\GameTop.lib.dll
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\bin\Debug\netcoreapp2.2\GameTop.lib.pdb
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\bin\Debug\netcoreapp2.2\GameTop.interface.pdb
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\obj\Debug\netcoreapp2.2\GameTop.csproj.CopyComplete
+C:\Users\Lenovo T430\Documents\Estudo.NET\GameTop\obj\Debug\netcoreapp2.2\GameTop.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KaPJhNZvW0s4UDmR7n6A+z2eWVjH8DwFxzvrfJ9Tc1a/DfJpGNW107nyTXT+BOByxGNRV0ayDnOtKoN4WoUKpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo T430\\Documents\\Estudo.NET\\GameTop.Interface\\GameTop.interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
